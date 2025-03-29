@@ -1,0 +1,18 @@
+.inputContainer {
+    margin-bottom: 10px;
+    }
+
+    .inputContainer label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    }
+
+    .inputContainer input,
+    .inputContainer select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }

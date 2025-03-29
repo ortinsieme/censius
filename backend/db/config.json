@@ -1,0 +1,16 @@
+{
+    "associatiDB": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Prova@2520",
+      "database": "associatidb",
+      "connectionLimit": 5
+    },
+    "comuniDB": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Prova@2520",
+      "database": "comunidb",
+      "connectionLimit": 5
+    }
+  }
